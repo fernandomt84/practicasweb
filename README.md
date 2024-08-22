@@ -1,4 +1,4 @@
-# Creción de Aplicciones WEB
+# Creción de Aplicaciones WEB
 
 La asignatura "Desarrollo de Aplicaciones Web" enseña a los estudiantes a crear páginas web interactivas, cubriendo HTML, CSS, y JavaScript. Incluye aspectos de diseño, usabilidad, accesibilidad y opciones de alojamiento, siguiendo las mejores prácticas y estándares del desarrollo web.
 
